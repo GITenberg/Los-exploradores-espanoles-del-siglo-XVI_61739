@@ -1,0 +1,31 @@
+_repo: Los-exploradores-espanoles-del-siglo-XVI_61739
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Cuyás, Arturo
+    gutenberg_agent_id: '51595'
+    url: http://www.gutenberg.org/2009/agents/51595
+creator:
+  author:
+    agent_name: Lummis, Charles Fletcher
+    aliases:
+    - Lummis, Charles F. (Charles Fletcher)
+    - Lummis, C. F. (Charles Fletcher)
+    birthdate: 1859
+    deathdate: 1928
+    gutenberg_agent_id: '36200'
+    url: http://www.gutenberg.org/2009/agents/36200
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Fletcher_Lummis
+description: ''
+gutenberg_issued: '2020-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61739'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Los exploradores españoles del siglo XVI
+url: http://www.gutenberg.org/ebooks/61739
